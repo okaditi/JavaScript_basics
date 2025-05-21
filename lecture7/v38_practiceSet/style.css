@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: rgba(112, 167, 167, 0.692);
+}
+
+nav{
+    display: flex;
+    justify-content: right;
+    background-color: aliceblue;
+}
+
+nav ul{
+    list-style-type: none;
+    display: flex;
+}
+
+nav ul li{
+    padding: 5px;
+    gap: 2px;
+}
+
